@@ -27,14 +27,14 @@
   },
   "autoCreateDB": true,
   "MongoConfig": {
-    "status": true,
+    "status": false,
     "uri": "MONGO_URI"
   },
   "discordBotToken": "",
   "discordClientID": "",
-  "pageAccessToken": "",
+  "pageAccessToken": "EAA5b2tSotcABO6aQfqWMDa0vMppKioExAMNDi5CXprDYKmfVE23YedZAu2ahrEZCGoXZC9ZBzWlS0U4KWBMjAColni6sLPkwjuvhzN6XejjjkDVLG0ZCHCuVzTTMh4U444hgGbhCdGKzwmcZCcJaa39dx5zUBgX8LaNyvJxshfYVDKve28trQxSoV6ZBTxz9t43GPl4izv6NNLWrljulQZDZD",
   "pageVerifyToken": "pagebot",
-  "noFB": true,
+  "noFB": false,
   "credentials": {
     "email": "",
     "password": "",
